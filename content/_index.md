@@ -9,10 +9,3 @@ A digital garden for [mohitgupta](https://mohitgupta.me) hosted using [Quartz](h
 
 # bulletin board
 * [friends, forums and stories](https://bb.informedconsent.io)
-
-
-
-
-
-
-> 📚 [Setup your own digital garden using Quartz](notes/setup.md)
